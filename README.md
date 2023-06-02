@@ -1,0 +1,1 @@
+# forest_fire_prediction_django_app
