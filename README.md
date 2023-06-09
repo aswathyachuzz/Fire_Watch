@@ -26,7 +26,7 @@ To use the Forest Fire Prediction system, follow these steps:
 
 3. Model Training: Train the machine learning models using the preprocessed data. Experiment with different algorithms and hyperparameters to optimize the models' performance.
 
-# Real-time Data Integration: Establish a mechanism to fetch real-time weather data from reliable sources and integrate it with the trained models. Ensure regular updates of weather information.
+4. Real-time Data Integration: Establish a mechanism to fetch real-time weather data from reliable sources and integrate it with the trained models. Ensure regular updates of weather information.
 
 # User Interface Development: Develop a user-friendly interface to visualize the predictions, provide interactive maps, and generate reports. Consider using web-based technologies or other suitable platforms for easy access.
 
