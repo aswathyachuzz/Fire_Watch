@@ -30,7 +30,7 @@ To use the Forest Fire Prediction system, follow these steps:
 
 5. User Interface Development: Develop a user-friendly interface to visualize the predictions, provide interactive maps, and generate reports. Consider using web-based technologies or other suitable platforms for easy access.
 
-# Deployment: Deploy the system on a server or cloud platform that can handle the computational requirements. Ensure scalability and reliability to handle user requests and real-time data integration.
+6. Deployment: Deploy the system on a server or cloud platform that can handle the computational requirements. Ensure scalability and reliability to handle user requests and real-time data integration.
 
 # Testing and Monitoring: Thoroughly test the system for accuracy and performance. Implement monitoring mechanisms to track the system's performance, detect anomalies, and address any issues promptly.
 
