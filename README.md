@@ -18,7 +18,7 @@ The Forest Fire Prediction system aims to predict the occurrence and severity of
 4. Visualization and Reporting: The predictions and analysis results are presented through an intuitive user interface, which includes interactive maps, charts, and graphs. This enables users to visualize fire risk areas, understand trends, and make informed decisions. Additionally, the system generates reports and alerts for stakeholders to facilitate effective decision-making.
 
 # Usage
-# To use the Forest Fire Prediction system, follow these steps:
+To use the Forest Fire Prediction system, follow these steps:
 
 # Data Collection: Gather historical fire records, weather data, satellite imagery, and topographical information for the target region.
 
