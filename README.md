@@ -15,7 +15,7 @@ The Forest Fire Prediction system aims to predict the occurrence and severity of
 
 3. Real-time Data Integration: The system integrates real-time weather data to provide up-to-date predictions. It continuously fetches the latest weather information from reliable sources and combines it with the trained models to generate real-time predictions.
 
-# Visualization and Reporting: The predictions and analysis results are presented through an intuitive user interface, which includes interactive maps, charts, and graphs. This enables users to visualize fire risk areas, understand trends, and make informed decisions. Additionally, the system generates reports and alerts for stakeholders to facilitate effective decision-making.
+4. Visualization and Reporting: The predictions and analysis results are presented through an intuitive user interface, which includes interactive maps, charts, and graphs. This enables users to visualize fire risk areas, understand trends, and make informed decisions. Additionally, the system generates reports and alerts for stakeholders to facilitate effective decision-making.
 
 # Usage
 # To use the Forest Fire Prediction system, follow these steps:
