@@ -32,7 +32,7 @@ To use the Forest Fire Prediction system, follow these steps:
 
 6. Deployment: Deploy the system on a server or cloud platform that can handle the computational requirements. Ensure scalability and reliability to handle user requests and real-time data integration.
 
-# Testing and Monitoring: Thoroughly test the system for accuracy and performance. Implement monitoring mechanisms to track the system's performance, detect anomalies, and address any issues promptly.
+7. Testing and Monitoring: Thoroughly test the system for accuracy and performance. Implement monitoring mechanisms to track the system's performance, detect anomalies, and address any issues promptly.
 
 # Maintenance and Updates: Regularly maintain and update the system to incorporate new data sources, improve models' accuracy, and address emerging challenges. Stay updated with the latest research and advancements in forest fire prediction.
 
