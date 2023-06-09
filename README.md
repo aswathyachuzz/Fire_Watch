@@ -34,7 +34,7 @@ To use the Forest Fire Prediction system, follow these steps:
 
 7. Testing and Monitoring: Thoroughly test the system for accuracy and performance. Implement monitoring mechanisms to track the system's performance, detect anomalies, and address any issues promptly.
 
-# Maintenance and Updates: Regularly maintain and update the system to incorporate new data sources, improve models' accuracy, and address emerging challenges. Stay updated with the latest research and advancements in forest fire prediction.
+8. Maintenance and Updates: Regularly maintain and update the system to incorporate new data sources, improve models' accuracy, and address emerging challenges. Stay updated with the latest research and advancements in forest fire prediction.
 
 # Conclusion
 # The Forest Fire Prediction system aims to leverage machine learning and data analysis techniques to predict and mitigate the impact of forest fires. By combining historical data, real-time weather information, and advanced models, the system assists in proactive decision-making and resource allocation. It is essential to continually improve and update the system to ensure its effectiveness in combating forest fires and protecting valuable ecosystems.
