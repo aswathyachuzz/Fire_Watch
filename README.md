@@ -22,7 +22,7 @@ To use the Forest Fire Prediction system, follow these steps:
 
 1. Data Collection: Gather historical fire records, weather data, satellite imagery, and topographical information for the target region.
 
-# Preprocessing: Preprocess the collected data, perform cleaning operations, handle missing values, and extract relevant features.
+2. Preprocessing: Preprocess the collected data, perform cleaning operations, handle missing values, and extract relevant features.
 
 # Model Training: Train the machine learning models using the preprocessed data. Experiment with different algorithms and hyperparameters to optimize the models' performance.
 
