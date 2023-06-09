@@ -13,7 +13,7 @@ The Forest Fire Prediction system aims to predict the occurrence and severity of
 
 2. Machine Learning Models: The system employs various machine learning algorithms, such as decision trees, random forests, support vector machines, or deep learning models, to build predictive models. These models are trained on historical data, considering factors like temperature, humidity, wind speed, precipitation, vegetation indices, and past fire occurrences.
 
-# Real-time Data Integration: The system integrates real-time weather data to provide up-to-date predictions. It continuously fetches the latest weather information from reliable sources and combines it with the trained models to generate real-time predictions.
+3. Real-time Data Integration: The system integrates real-time weather data to provide up-to-date predictions. It continuously fetches the latest weather information from reliable sources and combines it with the trained models to generate real-time predictions.
 
 # Visualization and Reporting: The predictions and analysis results are presented through an intuitive user interface, which includes interactive maps, charts, and graphs. This enables users to visualize fire risk areas, understand trends, and make informed decisions. Additionally, the system generates reports and alerts for stakeholders to facilitate effective decision-making.
 
