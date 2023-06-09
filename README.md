@@ -20,7 +20,7 @@ The Forest Fire Prediction system aims to predict the occurrence and severity of
 # Usage
 To use the Forest Fire Prediction system, follow these steps:
 
-# Data Collection: Gather historical fire records, weather data, satellite imagery, and topographical information for the target region.
+1. Data Collection: Gather historical fire records, weather data, satellite imagery, and topographical information for the target region.
 
 # Preprocessing: Preprocess the collected data, perform cleaning operations, handle missing values, and extract relevant features.
 
