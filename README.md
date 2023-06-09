@@ -24,7 +24,7 @@ To use the Forest Fire Prediction system, follow these steps:
 
 2. Preprocessing: Preprocess the collected data, perform cleaning operations, handle missing values, and extract relevant features.
 
-# Model Training: Train the machine learning models using the preprocessed data. Experiment with different algorithms and hyperparameters to optimize the models' performance.
+3. Model Training: Train the machine learning models using the preprocessed data. Experiment with different algorithms and hyperparameters to optimize the models' performance.
 
 # Real-time Data Integration: Establish a mechanism to fetch real-time weather data from reliable sources and integrate it with the trained models. Ensure regular updates of weather information.
 
