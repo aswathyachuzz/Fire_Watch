@@ -1,7 +1,7 @@
 # forest_fire_prediction
 # Introduction
 Forest fires pose a significant threat to ecosystems, wildlife, and human lives. Timely prediction of forest fires can help in taking preventive measures and minimizing
-the damage caused by such disasters. This README file provides an overview of the Forest Fire Prediction system,including its purpose, features, and usage.
+the damage caused by such disasters. This README file provides an overview of the Forest Fire Prediction system, including its purpose, features, and usage.
 
 # Purpose
 The Forest Fire Prediction system aims to predict the occurrence and severity of forest fires using various data sources and machine learning techniques.By analyzing historical data,weather conditions,and other relevant factors, the system helps in identifying areas at high risk of fire outbreaks. This information can assist fire management authorities, forest rangers,and emergency services in allocating resources effectively and taking proactive measures to prevent and combat forest fires.
