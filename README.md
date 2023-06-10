@@ -7,7 +7,7 @@ the damage caused by such disasters. This README file provides an overview of th
 The Forest Fire Prediction system aims to predict the occurrence and severity of forest fires using various data sources and machine learning techniques.By analyzing historical data,weather conditions,and other relevant factors, the system helps in identifying areas at high risk of fire outbreaks. This information can assist fire management authorities, forest rangers,and emergency services in allocating resources effectively and taking proactive measures to prevent and combat forest fires.
 
 # Features
- Data Collection:The system gathers relevant data from multiple sources,including historical fire records, weather data, satellite imagery, and topographical information. This data forms the basis for training the predictive models.
+ Data Collection:The system gathers relevant data from multiple sources,including historical fire records, weather data, satellite imagery,and topographical information. This data forms the basis for training the predictive models.
 
 1.Preprocessing and Feature Engineering: The collected data undergoes preprocessing and feature engineering steps to convert it into a suitable format for analysis. This involves cleaning the data, handling missing values, and extracting meaningful features from raw data sources.
 
