@@ -1,6 +1,6 @@
 # forest_fire_prediction
 # Introduction
-Forest fires pose a significant threat to ecosystems,wildlife, and human lives. Timely prediction of forest fires can help in taking preventive measures and minimizing
+Forest fires pose a significant threat to ecosystems, wildlife, and human lives. Timely prediction of forest fires can help in taking preventive measures and minimizing
 the damage caused by such disasters. This README file provides an overview of the Forest Fire Prediction system, including its purpose, features, and usage.
 
 # Purpose
